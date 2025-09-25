@@ -35,7 +35,9 @@ Driven by curiosity, purpose, and a deep love for technology, I’m always looki
 </p>
 
 ---
-
+![itskevkodev's Stats](https://github-readme-stats.vercel.app/api?username=itskevkodev&theme=shadow_blue&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itskevkodev)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itskevkodev" alt="GitHub Streak" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itskevkodev&show_icons=true&locale=en" alt="itskevkodev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itskevkodev&" alt="itskevkodev" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskevkodev&show_icons=true&locale=en&layout=compact" alt="itskevkodev" /></p>
