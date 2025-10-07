@@ -39,6 +39,8 @@ Driven by curiosity, purpose, and a deep love for technology, I’m always looki
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskevkodev&show_icons=true&locale=en&layout=compact" alt="itskevkodev" /></p> -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskevkodev)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskevkodev&stats_format=bytes)
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itskevkodev" alt="itskevkodev" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
