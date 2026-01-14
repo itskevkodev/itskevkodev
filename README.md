@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p>👋 **Hi, I’m Eng. Koech Kevin**</p>
+<p>👋 Hi, I’m Eng. Koech Kevin</p>
 <p>
 I’m a software engineer passionate about building scalable, user-focused digital solutions that solve real-world problems. I work across backend, web, and mobile, turning complex ideas into reliable, maintainable software.</p>
 
