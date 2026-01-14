@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <p>
 I’m a software engineer passionate about building scalable, user-focused digital solutions that solve real-world problems. I work across backend, web, and mobile, turning complex ideas into reliable, maintainable software.</p>
 
-<p>**Tech stack:** Angular, NestJS, React, React Native, Laravel, Python</p>
-<p>**Focus:** clean architecture, performance, collaboration, and best practices</p>
+<p><span style="text-bold">Tech stack:</span> Angular, NestJS, React, React Native, Laravel, Python</p>
+<p><span style="text-bold">Focus:</span> clean architecture, performance, collaboration, and best practices</p>
 
 <p>I enjoy working in collaborative teams, exploring emerging technologies (AI, cloud-native systems), and building impactful products—especially those that empower communities across Africa and beyond.</p>
 
