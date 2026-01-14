@@ -12,26 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Hi 👋, I'm Eng. Koech Kevin</p>
 
-<p>
-I'm a passionate software engineer with a deep interest in crafting impactful digital solutions for real-world problems. From scalable backend APIs to user-friendly mobile and web apps, I enjoy transforming complex challenges into innovative and reliable software.
-</p>
 
+<p>👋 **Hi, I’m Eng. Koech Kevin**</p>
 <p>
-With hands-on experience across modern frameworks like Angular, NestJS, React Native, React JS, Laravel and Python etc., I build applications that are not only performant but also intuitive and accessible. I believe in writing clean, maintainable code and following best practices to ensure every project stands the test of time.
-</p>
+I’m a software engineer passionate about building scalable, user-focused digital solutions that solve real-world problems. I work across backend, web, and mobile, turning complex ideas into reliable, maintainable software.</p>
 
-<p>
-I'm not just about code—I thrive in collaborative environments where ideas are exchanged freely and creativity fuels development. My goal is always to build with purpose, ensuring that every solution I deliver is aligned with user needs and business value.
-</p>
+<p>**Tech stack:** Angular, NestJS, React, React Native, Laravel, Python</p>
+<p>**Focus:** clean architecture, performance, collaboration, and best practices</p>
 
-<p>
-I’m constantly exploring emerging technologies—from AI to cloud-native systems—and seeking opportunities to expand my skillset. My mission is to continue building tools and platforms that make lives easier and empower communities, especially across Africa and beyond.
-</p>
+<p>I enjoy working in collaborative teams, exploring emerging technologies (AI, cloud-native systems), and building impactful products—especially those that empower communities across Africa and beyond.</p>
 
-<p>
-Driven by curiosity, purpose, and a deep love for technology, I’m always looking to connect with fellow developers, teams, and organizations that share a vision for transformative software.
+<p>Always open to connecting and building purposeful software together 🚀
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itskevkodev&" alt="itskevkodev" /></p>
