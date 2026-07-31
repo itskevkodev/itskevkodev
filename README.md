@@ -5,25 +5,31 @@
 <h1 align="left">👋 Hi, I'm Eng. Koech Kevin</h1>
 
 <p>
-I'm a software engineer passionate about building scalable, user-focused digital solutions that solve real-world problems. I work across backend, web, and mobile — turning complex ideas into reliable, maintainable software.
+Senior Software Engineer with 5 years of experience designing and shipping full-stack systems across web, iOS, and Android. I work end-to-end, from backend architecture to customer-facing interfaces, and I'm most energized by problems with real-world complexity: multi-party transactions, payments, and platforms that need to stay reliable under load.
+</p>
+
+<p>
+With experience spanning insurance, government services, education, and payments, I've been core engineering across BD Computing's full product portfolio — <strong>BimaTrust</strong>, <strong>GRMS</strong>, <strong>SkillHive</strong>, and <strong>Malipo</strong>.
+</p>
+
+<p>
+I enjoy working across the stack and turning ambiguous product requirements into systems that actually hold up in production. Open to connecting with other engineers, founders, and teams building in fintech, marketplaces, or logistics.
 </p>
 
 ### 🛠️ Tech Stack
 
-**Backend:** Go &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Python
+**Backend:** Go &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; PHP &nbsp;·&nbsp; Node.js
 
-**Frontend & Mobile:** Angular &nbsp;·&nbsp; React &nbsp;·&nbsp; React Native
+**Frontend & Mobile:** Angular &nbsp;·&nbsp; React Native &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Kotlin
 
-**Focus areas:** Clean architecture &nbsp;·&nbsp; Performance &nbsp;·&nbsp; API design &nbsp;·&nbsp; Collaboration &nbsp;·&nbsp; Best practices
+**Data & Messaging:** PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Redis &nbsp;·&nbsp; RabbitMQ &nbsp;·&nbsp; Firebase
 
-<p>
-I enjoy working in collaborative teams, exploring emerging technologies (AI, cloud-native systems), and building impactful products — especially those that empower communities across Africa and beyond.
-</p>
+**Architecture & Practices:** REST APIs &nbsp;·&nbsp; API Design &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; SQL
 
-- 🔭 Currently working on backend systems in **Go** and **NestJS**, alongside Angular and React front ends
-- 🌱 Currently deepening my knowledge of **FastAPI** and cloud-native architecture
-- 👯 Looking to collaborate on open-source tools and products with real-world impact
-- 💬 Ask me about Angular, NestJS, Go, FastAPI, or clean backend architecture
+- 🔭 Currently core engineering across BD Computing's product portfolio — BimaTrust, GRMS, SkillHive, and Malipo
+- 🌱 Currently deepening my knowledge of Go and distributed systems design
+- 👯 Looking to collaborate on fintech, marketplace, or logistics platforms
+- 🤔 Ask me about API design, system design, or building payment and multi-party transaction systems
 - 📫 Reach me via the links below
 - 🚀 Always open to connecting and building purposeful software together
 
